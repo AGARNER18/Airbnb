@@ -1,0 +1,460 @@
+host_id,host_name,host_location,host_response_time,host_response_rate,host_is_superhost,host_total_listings_count,cancellation_policy,years_host
+9206382,Teddy,NY,within a day,1,f,1,moderate,4
+1207773,Trista,NY,within a day,0.9,f,2,flexible,6
+480943,Ro,NY,within a day,0.8,f,2,super_strict_30,6
+1453898,Anthony,NY,within an hour,0.96,f,2,moderate,6
+101550534,Jacqueline,NY,within a day,1,f,1,strict,1
+25412754,Nish,NY,within a few hours,0.91,f,1,strict,3
+5440411,Dom,NY,within a few hours,1,f,1,moderate,4
+33233492,Sam And Patricia,NY,within a few hours,1,t,1,strict,2
+110026778,Sanja,NY,within an hour,1,f,1,strict,0
+9770501,Hannah,NY,a few days or more,0.25,f,1,moderate,4
+114977427,Katherine,NY,within a day,1,f,1,moderate,0
+1112560,Mary,NY,within a few hours,1,f,3,strict,6
+20536178,James,NY,within a few hours,1,f,1,strict,3
+4680861,Que,NY,within an hour,1,f,1,strict,4
+9601488,Jennifer,NY,within a day,0.7,f,1,moderate,4
+11041134,Sveta,NY,within a few hours,1,f,1,strict,3
+2195090,Thomas And Madalena,NY,within a day,1,f,1,moderate,5
+98341498,Gabriel,NY,within a few hours,1,f,1,strict,1
+1895211,Chizu&Yumi,NY,within an hour,1,f,3,strict,5
+30045665,Boyd,NY,within an hour,1,f,1,strict,2
+34765643,Gabriella,NY,within a day,1,f,2,strict,2
+17053145,Ana P,NY,within an hour,0.9,f,1,strict,3
+17730572,Cedric,NY,within a few hours,1,f,2,moderate,3
+85938655,Carlos,NY,within an hour,1,f,2,moderate,1
+159011,Michael,NY,within a day,1,f,1,moderate,7
+10528,Olivier,NY,within a few hours,1,f,2,moderate,8
+6863846,Lauren,NY,within a few hours,1,f,1,moderate,4
+128669,Alex,NY,within an hour,1,f,3,flexible,7
+5707523,Antoine,NY,within a few hours,1,f,1,flexible,4
+305314,Jen,NY,within a day,1,f,1,strict,7
+59777,Thais,NY,within a few hours,1,f,7,strict,8
+52580300,Danny,NY,within an hour,1,f,1,moderate,2
+513405,Stacie,NY,within an hour,1,f,1,moderate,6
+8178950,Mari,NY,within a few hours,0.9,f,1,strict,4
+25399747,Ron,NY,within a day,1,f,1,flexible,3
+16462666,Ali,NY,a few days or more,0.4,f,3,strict,3
+81909939,Gabe,NY,a few days or more,0,f,1,flexible,1
+116871769,Paige,NY,within a few hours,1,f,1,flexible,0
+25757883,Sayaka,NY,within an hour,0.8,t,1,strict,2
+50546859,Maria,NY,within a day,1,f,2,moderate,2
+114994317,Kate,NY,within an hour,1,f,1,strict,0
+19464598,Chris,NY,within an hour,1,f,1,flexible,3
+597085,Rob & Pilar,NY,within a few hours,1,f,1,strict,6
+100425039,Maria,NY,a few days or more,0.13,f,1,moderate,1
+7735666,Laura,NY,within an hour,1,f,1,strict,4
+100202479,Michelle,NY,within an hour,1,f,1,moderate,1
+3093378,Sabrina,NY,within a few hours,1,f,1,strict,5
+818508,Souheil,NY,within a few hours,1,f,1,flexible,6
+465589,Amia,NY,within an hour,0.9,f,1,strict,6
+1571120,Timothy + Gina,NY,within an hour,0.9,t,2,strict,5
+48200152,Natty,NY,within a few hours,1,t,1,strict,2
+533556,Ryan,NY,within a few hours,1,t,1,strict,6
+17819992,Jonah,NY,within a day,0.89,f,2,flexible,3
+10832637,Fabiola,NY,within an hour,1,f,2,moderate,4
+13056751,Eleni,NY,within a few hours,0.96,f,1,strict,3
+4209540,Aaron,NY,within a few hours,1,f,3,moderate,5
+20873322,Tj,NY,within an hour,0.9,f,1,strict,3
+9991075,Erika,NY,within a day,1,t,2,strict,4
+15813857,Brian,NY,within a few hours,1,t,1,moderate,3
+2222500,Valerie,NY,within a day,0.8,f,3,strict,5
+69262419,Jason,NY,within an hour,1,t,1,strict,1
+138010,Ofri,NY,within an hour,1,f,1,strict,7
+20889192,Gabrielle,NY,within a few hours,0.8,f,1,strict,3
+18171288,Katharine,NY,within a day,1,f,1,flexible,3
+319092,Juhli,NY,within a few hours,1,t,1,moderate,7
+89610831,Jen,NY,within a few hours,1,f,1,strict,1
+4417493,D,NY,within an hour,1,f,1,strict,5
+120111937,Madea And Ben,NY,within an hour,1,t,2,strict,0
+6891770,Mido,NY,within an hour,1,f,1,strict,4
+40221604,John And William,NY,within a few hours,1,f,4,strict,2
+26640,Sally,NY,a few days or more,0.4,f,2,strict,8
+25720330,Rob,NY,within an hour,1,t,1,flexible,2
+265278,Atlantis & Carmen,NY,within a day,1,t,1,moderate,7
+7997061,Rebecca,NY,within a day,1,f,1,strict,4
+5029659,Leon,NY,within a day,1,f,2,moderate,4
+271975,Christopher,NY,within a few hours,0.8,f,1,strict,7
+24416291,Seth,NY,within a few hours,1,f,3,strict,3
+7057894,Tal,NY,within an hour,1,f,1,moderate,4
+99411398,Emily,NY,within a day,0.9,t,1,strict,1
+36157321,Svetlana,NY,within a day,0.9,f,1,flexible,2
+89218965,Peggy,NY,within a few hours,0.8,f,2,flexible,1
+55391624,Joshua,NY,within an hour,1,f,1,moderate,1
+2141626,Alejandro,NY,within a few hours,1,f,1,strict,5
+12358955,Priya,NY,within an hour,1,f,2,strict,3
+77942736,Chris,NY,within an hour,1,f,1,moderate,1
+101231967,Taylor,NY,within an hour,0.93,f,6,strict,1
+17739111,Christopher,NY,within a few hours,1,f,1,strict,3
+2871344,Otto,NY,within an hour,1,f,1,strict,5
+1623220,Nicole,NY,within a day,1,f,2,strict,5
+63645243,Remy,NY,within a few hours,1,f,2,strict,1
+12194008,Sungjun,NY,within a day,0.5,f,1,moderate,3
+49111730,Emanuel,NY,within a few hours,0.91,f,2,flexible,2
+42721372,Jeremy,NY,within an hour,1,f,1,flexible,2
+69407176,Alexandra,NY,within a day,0.9,f,1,flexible,1
+16541840,Lauren,NY,within a day,0.78,f,1,strict,3
+4621559,Kenneth,NY,within an hour,1,f,2,strict,4
+813300,Molly,NY,within a day,1,f,2,strict,6
+10072205,Pareen,NY,within a day,0.7,f,1,strict,4
+35474485,Michelle,NY,within a few hours,1,t,1,strict,2
+89383449,Samantha,NY,within an hour,1,f,1,strict,1
+63784329,Avis,NY,within a day,1,f,1,flexible,1
+2861768,Justin,NY,within an hour,1,f,4,strict,5
+1097545,Carol,NY,within an hour,1,f,2,strict,6
+59756933,Magdalena,NY,within a day,1,f,1,flexible,1
+2331719,Marina,NY,within a day,0.9,f,1,moderate,5
+8304581,Margo,NY,within a few hours,0.88,f,2,flexible,4
+15854491,Anthony,NY,within a few hours,1,t,1,strict,3
+33054844,Kait,NY,within an hour,1,t,1,strict,2
+844862,Cj,NY,within a few hours,1,f,2,flexible,6
+93029325,Liliana,NY,within a few hours,0.86,f,1,moderate,1
+24794468,Anders,NY,within a day,0.65,f,3,flexible,3
+2487613,Yossi,NY,within a day,0.85,f,4,strict,5
+11586393,Jared,NY,a few days or more,0.2,f,1,flexible,3
+1318137,Adriano,NY,within an hour,0.93,f,2,strict,6
+5959653,Verna,NY,within a few hours,1,f,2,strict,4
+81288611,Belle,NY,within a few hours,0.95,f,1,strict,1
+10658057,Monica,NY,within an hour,1,f,1,moderate,4
+7827053,Krista,NY,within an hour,1,t,1,strict,4
+36420662,Marc,NY,within an hour,1,f,1,flexible,2
+2490471,Ann,NY,within a day,0.5,f,1,strict,5
+21364540,Francisca,NY,within an hour,1,f,1,strict,3
+17301301,Catherine,NY,within a few hours,1,f,1,flexible,3
+10353278,James,NY,within a few hours,0.9,f,2,strict,4
+3115758,Tunde,NY,within an hour,1,f,7,strict,5
+410733,Paul,NY,within an hour,1,t,2,strict,6
+45604877,Eleanor,NJ,within a few hours,0.83,f,1,strict,2
+6097290,Lc,FL,within a few hours,1,t,1,flexible,4
+101216314,Charlie,MA,within an hour,1,f,4,flexible,1
+50618866,Waell,NC,within an hour,1,f,1,flexible,2
+10238251,Christina,VA,within an hour,0.9,f,1,moderate,4
+53213930,West 42nd Street,US,within a day,0.5,f,16,strict,1
+42064476,Marine,outside US,within a few hours,1,f,1,strict,2
+51320511,Stephane,US,within an hour,1,f,1,strict,2
+94976037,Kareem,US,within a day,1,f,2,strict,1
+2501311,Seth,outside US,within an hour,1,t,1,strict,5
+31757926,Matthew,FL,a few days or more,0,f,1,flexible,2
+103299468,Loretta,US,within an hour,0.98,f,4,flexible,1
+15733420,Marcus,US,within a few hours,1,f,2,strict,3
+97130313,Diogenis,US,within an hour,1,f,1,flexible,1
+32537024,Owen,SC,within a few hours,0.83,f,1,strict,2
+116426229,Paul,US,within a day,0.77,f,1,strict,0
+78934668,Marissa,US,within a few hours,1,f,1,strict,1
+94814508,Mike,US,within a day,0.8,f,1,strict,1
+65259715,Nadine,US,within a few hours,1,f,1,strict,1
+104003904,Jay,US,within an hour,1,f,5,strict,1
+4043947,Howard,US,within an hour,0.98,f,6,strict,5
+88752833,Christina,,within a day,1,f,1,strict,1
+49245656,Amal & Alex,US,within an hour,1,f,1,strict,2
+171250,Benjamin,CA,within a day,0.8,f,1,moderate,7
+23650342,Marcia,outside US,within a few hours,0.86,f,2,flexible,3
+9299793,Yunaka,TX,within a day,0.67,f,1,strict,4
+42404417,Erin,US,within a day,0.5,t,1,flexible,2
+51374331,Daniel,US,within an hour,1,f,1,strict,2
+4977759,Molly,MA,within a day,1,f,1,moderate,4
+155689,Joab,MA,within a day,1,f,1,moderate,7
+90131587,Yu Qun,US,within a few hours,1,f,1,moderate,1
+3417321,David,NJ,within a day,1,f,1,strict,5
+17218916,Randall,US,within a day,1,f,1,flexible,3
+98687091,Janet,US,within a few hours,0.93,f,2,strict,1
+16209547,Gina,US,within an hour,0.92,f,2,strict,3
+17655093,Ali,outside US,within a few hours,1,f,1,strict,3
+7741390,Rana,CA,within an hour,1,t,2,strict,4
+16465321,Rosa,US,within an hour,0.94,f,2,strict,3
+3991790,Paola,HI,within a few hours,1,f,4,strict,5
+11636913,Philip,outside US,within a few hours,1,f,1,moderate,3
+110218367,Amy,US,within an hour,1,f,2,strict,0
+33118836,Megan,US,within an hour,1,f,2,moderate,2
+23050317,Ana Paula,outside US,within a few hours,1,f,1,flexible,3
+92002479,Dee,US,within an hour,1,t,2,moderate,1
+56071472,Erik +,US,within a few hours,0.64,f,1,strict,1
+1124961,Glenn,PA,within a day,0.6,f,1,strict,6
+106048951,Ricky,MA,within an hour,1,f,1,strict,1
+10179999,Joseph,US,within a few hours,0.9,f,1,flexible,4
+397221,Marcos,US,within a day,0.6,f,1,strict,6
+17572387,Fifi,US,within a day,0.71,f,1,strict,3
+11709274,Tana,CA,within a day,0.93,f,1,flexible,3
+88561632,Erwin,US,within an hour,0.91,f,3,strict,1
+5956799,Amir,US,within a day,0.57,f,1,flexible,4
+7557833,Christine,US,within an hour,1,f,6,strict,4
+2283470,Erick,NJ,within a few hours,1,f,1,strict,5
+2504057,Jimmy,US,within an hour,1,f,3,strict,5
+105259235,Amee,US,within an hour,1,f,2,strict,1
+21262929,David,outside US,within a few hours,1,f,2,moderate,3
+102739626,Lauren,US,within a day,0.5,f,1,flexible,1
+86144892,YungRan,US,within an hour,1,f,1,strict,1
+33682941,Craig,US,within an hour,1,f,1,flexible,2
+30793816,Sap,CA,within a day,0.7,f,2,flexible,2
+74160727,Daryna,US,within an hour,1,f,1,strict,1
+49945853,Solomon,CA,within a day,0.88,f,6,strict,2
+11796099,Shanell,US,within a day,0.75,f,1,flexible,3
+73737053,Elicia,US,within an hour,1,f,3,flexible,1
+16686968,Ricardo,US,within an hour,1,f,1,strict,3
+1125196,Paul,WA,within a few hours,1,t,3,flexible,6
+7739480,Chantal,US,within a few hours,1,f,3,flexible,4
+37901086,Virginie,outside US,within a day,0.96,f,1,strict,2
+18049970,Lou,US,within a few hours,0.91,f,6,flexible,3
+59394943,Marion,,a few days or more,0.5,f,1,flexible,1
+50001302,David,MA,within an hour,1,t,1,moderate,2
+119662609,Egal,US,within an hour,1,f,3,strict,0
+118378908,Jose,US,within an hour,0.96,f,5,strict,0
+106307344,Sol,US,within a few hours,1,f,1,strict,1
+12446229,Peter,US,within an hour,1,f,1,strict,3
+5381136,Sammy,CA,within an hour,1,t,8,strict,4
+126168966,Alex,US,within an hour,1,f,2,strict,0
+3984166,Brad,US,within a day,1,f,1,strict,5
+73789011,Naomi,US,within an hour,1,f,6,flexible,1
+6619680,Jenni,US,within a few hours,1,f,1,flexible,4
+115923842,Nick,US,within a few hours,0.95,f,5,strict,0
+55567227,Neida,US,within a few hours,1,f,2,strict,1
+33977623,Britt,US,within a day,1,f,1,strict,2
+5992481,Colin,CA,within an hour,0.7,f,1,moderate,4
+119932872,Philip,US,within an hour,1,f,1,strict,0
+34464762,Jay,US,within an hour,1,t,1,strict,2
+15542183,Brian,US,within a day,0.92,f,1,moderate,3
+100202714,Gokhan,US,within an hour,1,f,1,strict,1
+14621086,Sean,outside US,within an hour,1,f,1,moderate,3
+11610137,Miuki,CT,within a few hours,0.9,f,1,strict,3
+9624300,Keiko,US,within a few hours,1,f,1,flexible,4
+52130173,Carmelle,,a few days or more,0.33,f,1,flexible,2
+7221165,James,US,within a day,0.8,f,1,flexible,4
+3423652,Gfb,US,within a day,0.88,f,1,moderate,1
+27974034,Gia,NJ,within a few hours,0.8,f,1,moderate,2
+23902914,John,US,within an hour,1,f,1,flexible,3
+9637393,Julia-Marie,outside US,a few days or more,0,f,1,moderate,4
+100593354,Clara,US,within a day,0.6,f,1,flexible,1
+11751452,Benny,CT,within a few hours,1,t,1,strict,3
+558101,Ailee,outside US,within a few hours,1,f,2,flexible,6
+124142417,Marlene,NJ,within an hour,1,f,2,moderate,0
+117657284,Alex,SC,within a few hours,1,f,1,moderate,0
+2480939,Charles,outside US,within an hour,1,f,4,strict,5
+49742443,Anna,FL,within an hour,1,f,1,strict,2
+2955215,Annie,CA,within a few hours,0.88,f,3,strict,5
+11390945,Madison,CA,within an hour,1,f,1,flexible,3
+11217703,Keif,US,within an hour,1,f,5,strict,3
+91645690,Shay & Anat,US,within a few hours,1,f,1,strict,1
+515946,Jonathan,FL,within an hour,1,f,1,strict,6
+32045,Teri,US,within a day,0.6,f,1,strict,8
+34934425,Djanno,outside US,within a few hours,1,f,1,moderate,2
+111468765,Helen,RI,within an hour,1,f,1,strict,0
+6126518,Serafima,US,within a day,0.88,f,1,flexible,1
+48852145,Reshma,US,within an hour,1,f,1,strict,2
+23852000,Aram,MA,within an hour,1,f,1,strict,3
+106654118,Gerard,US,within an hour,1,f,1,strict,1
+26078315,Alessandra,outside US,within an hour,0.8,f,1,strict,2
+19911044,Alex,US,within a day,0.5,f,1,strict,3
+62028227,George,US,within an hour,1,f,4,strict,1
+102626341,Daniel,US,within a day,0.56,f,1,strict,1
+94100043,Mohamed,US,within an hour,0.91,f,2,flexible,1
+106393879,Alexandra,US,within an hour,1,f,2,strict,1
+83899272,Kent,CT,within an hour,1,f,1,strict,1
+12745559,Sewit,CA,within an hour,1,t,1,moderate,3
+6397101,Greg,CA,within a few hours,1,t,3,strict,4
+78502883,Carlos,CA,within an hour,1,f,1,strict,1
+23551218,Nicki,CA,within an hour,1,f,4,moderate,3
+1789652,J & J,CA,within an hour,1,f,1,strict,5
+3967730,Andrew,CA,within a few hours,1,f,10,strict,5
+62347720,April,CA,within an hour,1,t,2,strict,1
+679771,Marina,CA,within a day,1,f,1,moderate,6
+91772982,Jesse & Kayt,CA,within a few hours,0.89,t,2,strict,1
+7304995,Albert,CA,within an hour,1,f,3,strict,4
+69428463,John,CA,within an hour,1,t,1,strict,1
+11418517,John,CA,within an hour,1,f,7,strict,3
+762994,Jeff And Natasha,CA,within a few hours,1,t,3,moderate,6
+23597181,Chris,CA,within an hour,1,t,1,moderate,3
+4412791,Oren And Kara,CA,within an hour,1,t,1,strict,5
+88755035,Van,CA,within an hour,1,f,3,moderate,1
+21023362,Bob,CA,within an hour,1,t,1,strict,3
+5821866,Lica & Matheus,CA,within an hour,1,f,2,strict,4
+7765823,Lorna,CA,within an hour,1,f,1,strict,4
+7984293,Rita,CA,within an hour,1,t,4,strict,4
+6312332,Anthony,CA,within a few hours,1,t,1,moderate,1
+5796800,Jude,CA,within an hour,1,t,3,strict,4
+24775866,Emily,CA,within a few hours,1,t,3,strict,3
+41555535,Tee,CA,within an hour,1,f,2,strict,2
+14855738,Christopher,CA,within a few hours,1,f,1,strict,3
+59238592,Ellen,CA,within an hour,1,f,3,flexible,1
+1984131,Loren,CA,within an hour,1,f,1,strict,5
+9413623,Lampros,CA,within an hour,1,f,1,strict,4
+3570954,Tam,CA,within an hour,1,f,1,moderate,5
+35308112,Ricky,CA,within an hour,1,f,2,strict,2
+64075297,Ben,CA,within an hour,1,t,3,flexible,1
+14293161,Adrian,CA,within a few hours,0.95,f,6,strict,3
+67990048,Milica,CA,within a few hours,0.96,f,27,strict,1
+2014744,Margarita,CA,within an hour,1,t,9,strict,5
+1028066,Ben,CA,within a few hours,0.86,f,1,strict,6
+17505730,Kelley,CA,within an hour,1,f,1,strict,3
+106242299,Carol,CA,within a few hours,1,f,1,strict,1
+24534390,La,CA,within an hour,0.97,f,11,strict,3
+18672085,Wendy,CA,within a day,1,f,1,moderate,3
+5154390,Violeta,CA,within a day,0.8,f,2,flexible,4
+4468683,Matt & Susy,CA,within an hour,1,f,12,strict,5
+66206065,Angela,CA,within an hour,1,f,7,strict,1
+32999823,Angie,CA,within an hour,1,f,2,moderate,2
+87383474,Lance,CA,within an hour,1,t,2,strict,1
+8757572,Tobin,CA,a few days or more,0,f,1,strict,4
+36290720,Mark,CA,within a few hours,1,f,3,flexible,2
+14937053,Shelley,CA,within an hour,1,f,1,strict,3
+13993456,Kelly,CA,within a few hours,1,f,1,strict,3
+22478093,Dilip,CA,within a few hours,1,t,2,strict,3
+6605622,Mackenzie,CA,within an hour,1,t,2,strict,4
+33772749,Will,CA,within an hour,1,f,5,moderate,2
+3595258,Dino,CA,within an hour,1,f,7,strict,5
+45316556,Clinton,CA,within an hour,1,t,1,strict,2
+12812392,Amazing,CA,within an hour,0.99,f,8,strict,3
+51445784,Jene T.,CA,within a few hours,1,f,3,strict,2
+89155282,Rebecca And Erica,CA,within an hour,1,t,7,moderate,1
+18982371,May,CA,within an hour,1,f,2,moderate,3
+63527246,Moritz,CA,within an hour,1,t,2,flexible,1
+30382646,Mike & Anna,CA,within a few hours,0.9,f,5,strict,2
+38581941,Jule,CA,within a day,0.8,t,1,strict,2
+40652904,David,CA,within an hour,1,t,1,strict,2
+9762413,Kate,CA,within an hour,0.99,f,10,moderate,4
+260228,Christopher,CA,within an hour,0.97,f,7,strict,7
+32103382,Sasha,CA,within an hour,1,t,20,strict,2
+91136,Debbie,CA,within an hour,0.98,f,12,strict,7
+16403300,Zhana,CA,within a few hours,0.9,f,5,strict,3
+14058068,Sean,CA,within a few hours,1,f,4,strict,3
+43680656,Rhiannon,CA,within a day,0.88,f,1,flexible,2
+3871663,Jessie,CA,within a few hours,1,t,2,strict,5
+78453282,HollywoodRentalApartments,CA,within an hour,1,f,2,strict,1
+37815021,Jake,CA,within an hour,1,f,2,strict,2
+9309778,Peter,CA,within a few hours,0.83,f,3,moderate,4
+7206559,Tracy,CA,within an hour,1,f,4,strict,4
+14978530,Koko Ben,CA,within an hour,1,f,8,strict,3
+3088602,N G,CA,within an hour,1,t,5,moderate,5
+45316121,Richard,CA,a few days or more,0,f,1,flexible,2
+14270654,Miele,CA,within an hour,1,t,3,strict,3
+1680823,E.J.,CA,within a day,1,f,5,moderate,5
+96700400,Ricky,CA,within an hour,1,f,1,strict,1
+6255003,Brian,CA,within an hour,1,f,2,strict,4
+329040,Leigh And Stefanie,CA,within a few hours,1,f,5,strict,7
+65228610,Naomi,CA,within an hour,0.98,f,11,moderate,1
+56645377,Vanessa & Joy,CA,within an hour,1,t,1,strict,1
+102418027,Jr,CA,within an hour,0.97,t,2,moderate,1
+5928424,Mary,CA,within an hour,1,f,1,strict,4
+119372435,Lindsey,CA,within an hour,1,f,1,strict,0
+98269878,Romain,CA,within an hour,0.9,f,1,flexible,1
+1511369,D. Marilyn,CA,within an hour,1,f,10,moderate,6
+137435,Sofia,CA,within an hour,1,f,3,strict,7
+13886188,Jacqueline,CA,within an hour,1,t,4,moderate,3
+24271549,Eric,CA,within an hour,1,t,6,moderate,3
+101780756,Jordan,CA,within a day,0.8,f,1,flexible,1
+102262148,Ella,CA,within a day,0.73,f,1,strict,1
+1155655,Sonya,CA,within an hour,1,t,2,strict,6
+40740211,Life-Of,CA,within an hour,1,f,9,strict,2
+17981722,Austin,CA,within an hour,1,f,30,strict,3
+19789379,Bianca,CA,within a day,0.83,f,4,moderate,3
+1658507,"Christina, Alex & Baby Nova",CA,within a day,0.9,f,1,strict,5
+13737992,Michelle,CA,within an hour,1,t,3,strict,3
+15055244,Jessie May,CA,within an hour,1,f,1,moderate,3
+37926384,Liam,CA,within an hour,1,t,1,strict,2
+40225166,Chris,CA,within an hour,1,f,17,flexible,2
+20623313,Jarvis,CA,within a few hours,1,t,2,strict,3
+4602457,Jami,CA,within an hour,1,t,1,strict,4
+13735500,Jamie,CA,within an hour,1,t,2,moderate,3
+37668833,Fred,CA,within an hour,0.99,f,21,strict,2
+47154738,Dan & Kristin,CA,within a day,1,f,1,strict,2
+39621872,Matilda & Ryan,CA,within an hour,1,t,1,strict,2
+9929667,Dream Stays,CA,within an hour,1,t,5,strict,4
+21036830,Emily & Omar,CA,within an hour,1,f,1,strict,3
+13856090,Doris,CA,within an hour,0.94,f,24,strict,3
+1463561,Breanna,NY,within an hour,0.8,f,2,strict,6
+30310515,Tai,US,within an hour,1,f,1,strict,2
+2291043,Jorge,FL,within an hour,1,f,1,flexible,5
+19535470,Manon,outside US,within a day,0.86,f,1,flexible,3
+1568974,Sasko,outside US,within an hour,1,f,2,strict,5
+80575009,Alexus,US,within an hour,1,t,2,strict,1
+50521917,Evolve Vacation Rental,CO,within a few hours,0.98,f,632,strict,2
+48711028,Carlo,AZ,within an hour,1,t,2,moderate,2
+125986912,Bella,US,within an hour,1,f,2,strict,0
+26654722,Akram,US,within an hour,1,f,2,moderate,2
+71187545,Sara,US,within an hour,1,t,1,strict,1
+13716757,Tammara,US,within an hour,0.86,f,2,moderate,3
+56257157,Joy,US,within an hour,0.9,f,1,strict,1
+77535056,Julia,US,within an hour,1,t,3,moderate,1
+34521728,David,US,within an hour,1,t,3,strict,2
+100906444,Carolin,US,a few days or more,0,f,1,moderate,1
+119843308,Hermes,US,within a few hours,1,f,1,strict,0
+16824624,Alycia,US,within an hour,1,f,1,moderate,3
+27261368,Frédérique,outside US,within an hour,1,t,4,flexible,2
+18978840,Jon,FL,within an hour,1,f,1,flexible,3
+42571,Su&Sa,US,within a few hours,1,f,1,strict,8
+99563249,Parker,NY,within an hour,1,f,1,flexible,1
+17982407,Zac,outside US,within an hour,1,f,7,flexible,3
+29454517,Wade,US,within a day,0.92,f,2,strict,2
+53331260,Don,US,within a few hours,1,f,5,strict,1
+68392253,Susy & Matt,TX,within an hour,1,f,9,strict,1
+79892627,Terri,US,within a few hours,0.95,t,2,strict,1
+38774068,C,outside US,within a few hours,1,f,3,strict,2
+41772451,Kate,US,within a few hours,0.88,f,3,strict,2
+27689406,Brian,NY,within an hour,0.91,f,1,strict,2
+9233328,Elizabeth,outside US,within a day,0.9,t,2,strict,4
+53614609,Faye,US,within a day,1,f,1,moderate,1
+16577861,John,NJ,within a few hours,0.92,f,9,strict,3
+49754887,Rachael,NY,within a day,0.57,f,9,strict,2
+66110757,Frank,US,within a few hours,1,t,12,strict,1
+97524518,Tapley,US,a few days or more,0.29,f,1,flexible,1
+9078277,Scott,US,within a few hours,0.82,f,3,moderate,4
+5867234,Troy,NY,within a few hours,1,f,1,flexible,4
+97182316,Hamilton,US,within an hour,1,t,1,flexible,1
+54861617,Sebast,US,within an hour,0.91,f,8,strict,1
+79866502,Eden,US,within a day,1,t,1,flexible,1
+4630562,Russell,NY,within an hour,1,t,3,strict,4
+113471340,Jess,US,within an hour,1,f,2,strict,0
+60547785,Russ,US,within an hour,0.93,f,10,strict,1
+77002781,Patricia Dale,NY,within an hour,1,f,1,strict,1
+11351063,Aaron,US,within a few hours,1,t,12,strict,3
+78000169,Gisele,US,within an hour,1,f,1,moderate,1
+35172915,Anthony,US,within an hour,1,f,3,strict,2
+37717467,Kimberly,US,within an hour,1,f,1,strict,2
+42238836,Alexandr,US,within an hour,1,f,12,strict,2
+3039572,Vladimir,outside US,within an hour,1,f,1,moderate,5
+95469270,Galina,,within an hour,1,f,10,strict,1
+51425960,William,US,within a few hours,1,f,2,strict,2
+3679304,T. Marie,outside US,within a few hours,0.95,f,4,strict,5
+89712291,Paula,US,within an hour,1,f,1,flexible,1
+64809585,Chris,US,within an hour,1,f,4,strict,1
+32056988,John,NY,within an hour,1,f,1,moderate,2
+8701468,Phil,US,within a day,1,f,1,strict,4
+53095473,Thomas,US,within an hour,1,f,2,strict,1
+37699696,Kid,US,within a few hours,0.9,f,1,moderate,2
+107587090,Mattias,US,within a few hours,1,f,23,flexible,1
+5147752,David,US,within a day,0.7,f,1,moderate,4
+698826,Chris,NY,within a day,1,f,1,strict,6
+74190183,Wolfgang,US,within a day,1,f,1,moderate,1
+108874146,Philip,US,within an hour,1,f,1,moderate,1
+105879693,Andrea,US,within a day,1,f,1,flexible,1
+42406108,Ginger,US,within an hour,0.92,f,1,strict,2
+14288198,Susan & Anita,US,within an hour,1,f,5,flexible,3
+77926474,Bob,US,within an hour,1,f,5,strict,1
+39937365,Anixia,FL,within a few hours,1,f,5,strict,2
+63442981,Amber,US,within a day,0.7,f,1,strict,1
+20916423,Lea,US,within an hour,1,f,2,flexible,3
+91047271,Vanessa,US,a few days or more,0,f,1,strict,1
+47235557,Alicia,US,within an hour,0.8,f,1,flexible,2
+15442116,Lora,FL,within a day,1,f,1,flexible,3
+14604549,Ashley,NY,within a few hours,1,f,1,flexible,3
+120919156,Lekh,US,within an hour,1,f,2,strict,0
+58792869,Sonia,NJ,within an hour,1,t,1,strict,1
+16644446,Heaven In USA Furnished Apartments,US,within an hour,0.99,f,56,strict,3
+119392124,Daniel,US,within an hour,1,f,1,flexible,0
+808207,Hal,WA,within a few hours,1,f,2,moderate,6
+25907583,Rebecca,outside US,within a few hours,1,f,1,strict,2
+17734554,Toyin,US,within an hour,1,f,3,moderate,3
+7512640,Ting,NY,within an hour,1,f,1,strict,4
+81968925,Nicholas,US,within a day,0.86,f,1,strict,1
+69443339,Erica,US,within a few hours,0.8,f,1,flexible,1
+52325010,McKenna,WA,within an hour,1,f,3,strict,2
+90343256,Kingi,GA,a few days or more,0,f,1,strict,1
+34279176,Alexandra,US,within an hour,1,f,3,strict,2
+103444491,Dustin,US,within a few hours,1,f,1,flexible,1
+93042933,Lane,US,within a few hours,1,f,1,strict,1
+4158431,Melissa,NY,within a few hours,1,t,2,strict,5
+84314588,Thomas,US,within an hour,1,f,1,moderate,1
+79700003,Marco,NY,within a day,1,f,1,strict,1
+10299687,Corey,MA,within an hour,1,f,1,strict,4
+30518252,Petar,outside US,within an hour,1,f,1,moderate,2
+82523799,Piotr,US,within an hour,1,f,1,strict,1
+3608385,Anna,UT,within an hour,0.97,f,9,flexible,5

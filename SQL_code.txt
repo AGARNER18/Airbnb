@@ -485,7 +485,7 @@ INSERT INTO HOST VALUES (34521728,'David','US','within an hour',1,'t',3,'strict'
 INSERT INTO HOST VALUES (100906444,'Carolin','US','a few days or more',0,'f',1,'moderate',1);
 INSERT INTO HOST VALUES (119843308,'Hermes','US','within a few hours',1,'f',1,'strict',0);
 INSERT INTO HOST VALUES (16824624,'Alycia','US','within an hour',1,'f',1,'moderate',3);
-INSERT INTO HOST VALUES (27261368,'Frédérique','outside US','within an hour',1,'t',4,'flexible',2);
+INSERT INTO HOST VALUES (27261368,'FrÃ©dÃ©rique','outside US','within an hour',1,'t',4,'flexible',2);
 INSERT INTO HOST VALUES (18978840,'Jon','FL','within an hour',1,'f',1,'flexible',3);
 INSERT INTO HOST VALUES (42571,'Su&Sa','US','within a few hours',1,'f',1,'strict',8);
 INSERT INTO HOST VALUES (99563249,'Parker','NY','within an hour',1,'f',1,'flexible',1);
